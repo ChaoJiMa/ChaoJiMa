@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaojima&show_icons=true&theme=radical)
-https://img.shields.io/static/v1?label=Javascript
+[https://img.shields.io/static/v1?label=Javascript](https://camo.githubusercontent.com/22c41246d86faf6c304c3562128d8ddfd465e7ad4329cc6eb1278377232f37c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6636646131633f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
 <!--
 **ChaoJiMa/ChaoJiMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
