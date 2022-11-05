@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaojima&show_icons=true&theme=radical)
+https://img.shields.io/static/v1?label=Javascript
 <!--
 **ChaoJiMa/ChaoJiMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/static/v1?label=Javascript
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
