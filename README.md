@@ -16,6 +16,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Gitee-C71D23?style=flat&logo=gitee&logoColor=white">
+  <img src="https://img.shields.io/badge/-Gitlab-FCA326?style=flat&logo=gitlab&logoColor=white">
    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
    <img src="https://img.shields.io/badge/-Vite-747BFF?style=flat&logo=vite&logoColor=white">
    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
