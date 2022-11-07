@@ -41,7 +41,8 @@
 
 - 2022.10-至今         北京-**百度**-商业平台研发部  前端工程师  校招上岸
  -->
-# 个人介绍：<a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a>
+# 个人介绍：
+<!-- <a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a> -->
 <!-- 
 - 👨‍💻 <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人经历分享</a>
 - 👨‍💻 山东理工大学-本科-自动化专业转行前端选手
