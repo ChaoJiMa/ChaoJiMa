@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+   <img src="https://img.shields.io/badge/-Vite-747BFF?style=flat&logo=vite&logoColor=white">
    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
    <img src="https://img.shields.io/badge/-Express-%33A2?style=flat-square&logo=Express">
 </div>
