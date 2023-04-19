@@ -28,22 +28,6 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
 
-# 个人介绍：
-<!-- <a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a> -->
-<!-- 
-- 👨‍💻 <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人经历分享</a>
-- 👨‍💻 山东理工大学-本科-自动化专业转行前端选手
-- 👨‍💻 原嵌入式单片机设计，电子设计竞赛选手
-- 🏡 I'm working on FrontEndKnowledge
-- 💻 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
-- 💻 我的前端学习历程笔记，纯基础知识沉淀 https://sunny-117.github.io/ 目前已不维护，转向<a>FrontEndKnowledge</a>的输出
-- 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a>
-- 🌝前端学习笔记blog：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
-- 🌝致力于最全，最前沿前端技术知识库：<a href="https://sunny-117.github.io/FrontEndKnowledge/" target="_blank">FrontEndKnowledge</a> (暂时闭源，等它成熟，可以访问)
-- 💬 微信：17560850561
-- 你若盛开，清风自来
-- 相约而至，风雨无阻，漫漫岁月，赤子之心 -->
-
 # Github status
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Chaojima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
