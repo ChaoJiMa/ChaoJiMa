@@ -28,17 +28,6 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
 
-
-# 工作经历
-
-- 2022.10-至今      成都正态铠甲科技有限公司                前端开发工程师
-
-- 2020.08-2022.09   成都芯任科技有限公司                    前端开发工程师
-
-- 2019.07-2020.08   四川度咪云科技有限公司                   前端开发工程师
-
-- 2018.12-2019.06    四川省杜一生生物医药科技有限公司          前端开发实习生
-
 # 个人介绍：
 <!-- <a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a> -->
 <!-- 
